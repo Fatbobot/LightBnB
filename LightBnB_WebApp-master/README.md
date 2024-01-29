@@ -54,7 +54,7 @@
 * `styles` contains all of the sass files. 
 * `server.js` is the entry point to the application. This connects the routes to the database.
 
-## Project Structure
+#Images of Lightbnb
 
 ![Main page of Lightbnb!](https://github.com/Fatbobot/LightBnB/blob/master/LightBnB_WebApp-master/docs/bnb_SC_1.png?raw=true)
 ![Filtered Search using JS and postgres queries!](https://github.com/Fatbobot/LightBnB/blob/master/LightBnB_WebApp-master/docs/bnb_SC_2.png)

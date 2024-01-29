@@ -1,3 +1,4 @@
+--Query that shows all reservations made by a specific user--
 SELECT reservations.id, properties.title, properties.cost_per_night, reservations.start_date, avg(rating) as average_rating
 FROM reservations
 JOIN properties ON reservations.property_id = properties.id

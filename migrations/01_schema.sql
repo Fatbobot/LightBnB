@@ -1,3 +1,5 @@
+--Main database for lightbnb: Properties, Users, Reservations, Property reviews--
+
 DROP TABLE IF EXISTS users CASCADE;
 DROP TABLE IF EXISTS properties CASCADE;
 DROP TABLE IF EXISTS reservations CASCADE;
